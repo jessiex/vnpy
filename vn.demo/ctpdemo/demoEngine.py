@@ -13,7 +13,7 @@ from datetime import date
 from time import sleep
 import shelve
 
-from PyQt4 import QtCore
+from PyQt5 import QtCore
 
 from demoApi import *
 from eventEngine import EventEngine

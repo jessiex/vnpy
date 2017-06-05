@@ -16,7 +16,7 @@ import shelve
 from collections import OrderedDict
 
 import sip
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 from eventEngine import *
 
@@ -1119,7 +1119,7 @@ class AboutWidget(QtGui.QDialog):
 
             Python发行版：Python 2.7.6 (Anaconda 1.9.2 Win-32)
 
-            图形库：PyQt4 4.11.3 Py2.7-x32
+            图形库：PyQt5 4.11.3 Py2.7-x32
 
             交易接口：vn.lts/vn.ctp
 

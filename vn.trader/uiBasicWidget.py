@@ -5,7 +5,7 @@ import csv
 import os
 from collections import OrderedDict
 
-from PyQt4 import QtGui, QtCore
+from PyQt5 import QtGui, QtCore
 
 from eventEngine import *
 from vtFunction import *

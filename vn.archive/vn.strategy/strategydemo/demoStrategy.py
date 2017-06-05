@@ -7,7 +7,7 @@ from time import sleep
 
 # 然后是第三方库模块（如PyQt4等）
 import sip
-from PyQt4 import QtCore
+from PyQt5 import QtCore
 
 # 然后是自己编写的模块
 from demoEngine import MainEngine
